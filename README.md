@@ -1,8 +1,15 @@
 ### Hello World 👋
 
-- 🔭 I have a PhD in Architectural and Building Sciences/Technology from UC Berkeley
-- 👯 I’m interested in understanding extreme indoor heat exposure during heat waves and how to enhance indoor climate resilience
-- 💬 Ask me about causal inference/building science/indoor air quality/thermal comfort/building energy efficiency
-- 📫 How to reach me: ruijisun@berkeley.edu
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: father of two boys
+- 🔭 Double major in Architectural Design and Mechanical Engineering (HVAC)
+
+- ▶️ Currently building a dynamic model to visualize Earth’s axial rotation and orbit in real-time 
+
+- 🚀 Research focus: climate impacts on indoor environmental quality and resilient building technology for extreme heat/cold/smoke events
+
+- 💬 Happy to chat about Mars habitation and life-support systems
+
+- 📫 ruijisun@berkeley.edu
+
+- 😄 he/him
+
+- ⚡ Fun fact: street dance performer
